@@ -4,14 +4,6 @@
 
     int main()
     {
-        ////////////////////////////////////////////////
-
-        ios_base::sync_with_stdio(false);
-    	cin.tie(NULL);
-     	cout.tie(NULL);
-
-        ////////////////////////////////////////////////
-
         ll t{},n{};
         string p;
         cin>>t>>n;
