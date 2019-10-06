@@ -4,7 +4,7 @@ The project is the collection of solutions of beginner friendly questions from A
 Currently the solutions are only in C++. 
 
 ## Prerequisites
-To understand the solutions posted the reader should have the very basic knowledge of C++. (C++11 and above preferrably).
+To understand the solutions posted the reader should have the very basic knowledge of C++. (C++11 and above preferably).
 
 ## Authors
  * **Sambit Ekka** 
